@@ -27,7 +27,5 @@ This project converts raw spectroscopy data into meaningful predictions using da
 | **Deployment** | FastAPI REST API for real-time predictions |
 | **Visualization** | Matplotlib spectrum plots |
 
----
 
-## 📌 **2. System Architecture**
 
